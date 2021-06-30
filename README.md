@@ -37,8 +37,12 @@ Below are lists and images to show the process to machine learning and neural ne
     ![image](https://user-images.githubusercontent.com/78067427/123919343-d9d39580-d952-11eb-856d-50ded3d3baba.png)
     ![image](https://user-images.githubusercontent.com/78067427/123919641-2028f480-d953-11eb-97d5-ab6652f9167c.png)
 
-    
-    
+## Summary
+
+For the most part, the model was retrained on several attempts but still gives about 72% accuracy level. 
+
+It could be optimized better if more features are added, which may be related to the expenditures of the funding and other relevant information to be added to the dataset. Also, supervised learning model like Random Forest Classifier can be used to derive a categorized output and perhaps give a better accuracy performance.
+
 
 
    
