@@ -27,13 +27,13 @@ Below are lists and images to show the process to machine learning and neural ne
    
 #### - Compiling, Training, and Evaluating the Model
 
-    - The model has 44 features, 2 hidden node layers of 80 and 50 as relu being the activation fucktion which gives parameters of 3520 and 4050 respectively. It also has the output layer of 1 dense unit giving a parameter of 51 (2nd layer + output layer). This gives a total parameter of 7,621. This volume was set to try optimize up to 75% accuracy of the model.
+   - The model has 44 features, 2 hidden node layers of 80 and 50 as relu being the activation fucktion which gives parameters of 3520 and 4050 respectively. It also has the output layer of 1 dense unit giving a parameter of 51 (2nd layer + output layer). This gives a total parameter of 7,621. This volume was set to try optimize up to 75% accuracy of the model.
     ![image](https://user-images.githubusercontent.com/78067427/123915595-ac84e880-d94e-11eb-95ce-a153b54cfb7f.png)
     
-    - The model's performance was not able to reach a 75% accuracy level 
+   - The model's performance was not able to reach a 75% accuracy level 
     ![image](https://user-images.githubusercontent.com/78067427/123918421-dbe92480-d951-11eb-9ef8-a802c670131a.png)
     
-    - Further steps was taken to increase the nodes by overa 100%, additional layer added, different activation fumctions were used and the epochs was increased as well.
+   - Further steps was taken to increase the nodes by overa 100%, additional layer added, different activation fumctions were used and the epochs was increased as well.
     ![image](https://user-images.githubusercontent.com/78067427/123919343-d9d39580-d952-11eb-856d-50ded3d3baba.png)
     ![image](https://user-images.githubusercontent.com/78067427/123919641-2028f480-d953-11eb-97d5-ab6652f9167c.png)
 
